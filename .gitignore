@@ -1,0 +1,18 @@
+# Proteus
+*.DSN.bak
+*.PWI
+*.DBK
+
+# Arduino
+*.hex
+*.elf
+*.bin
+build/
+
+# System
+thumbs.db
+.DS_Store
+
+# Secrets & Dependencies
+.env
+node_modules/
